@@ -2,15 +2,15 @@ My Leetcode Solutions
 
 I have solved **17   /   1483** problems while there are **234** problems still locked.
 
-Language: Golang,Python,Javascript
+Language: Golang,Python3,Javascript
 
-Update time:  2020-10-22 18:23:34
+Update time:  2020-10-22 18:28:51
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
-|1|[two-sum](https://leetcode.com/problems/two-sum)|[Javascript](https://github.com/evantianx/leetcode/blob/master/solutions/001-two-sum/two-sum.js) [Golang](https://github.com/evantianx/leetcode/blob/master/solutions/001-two-sum/two-sum.go)|[:memo:](https://leetcode.com/articles/two-sum/)|Easy|
-|2|[add-two-numbers](https://leetcode.com/problems/add-two-numbers)|[Javascript](https://github.com/evantianx/leetcode/blob/master/solutions/002-add-two-numbers/add-two-numbers.js) [Golang](https://github.com/evantianx/leetcode/blob/master/solutions/002-add-two-numbers/add-two-numbers.go)|[:memo:](https://leetcode.com/articles/add-two-numbers/)|Medium|
-|3|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Golang](https://github.com/evantianx/leetcode/blob/master/solutions/003-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.go)|[:memo:](https://leetcode.com/articles/longest-substring-without-repeating-characters/)|Medium|
+|1|[two-sum](https://leetcode.com/problems/two-sum)|[Javascript](https://github.com/evantianx/leetcode/blob/master/solutions/001-two-sum/two-sum.js) [Golang](https://github.com/evantianx/leetcode/blob/master/solutions/001-two-sum/two-sum.go) [Python3](https://github.com/evantianx/leetcode/blob/master/solutions/001-two-sum/two-sum.py)|[:memo:](https://leetcode.com/articles/two-sum/)|Easy|
+|2|[add-two-numbers](https://leetcode.com/problems/add-two-numbers)|[Javascript](https://github.com/evantianx/leetcode/blob/master/solutions/002-add-two-numbers/add-two-numbers.js) [Python3](https://github.com/evantianx/leetcode/blob/master/solutions/002-add-two-numbers/add-two-numbers.py) [Golang](https://github.com/evantianx/leetcode/blob/master/solutions/002-add-two-numbers/add-two-numbers.go)|[:memo:](https://leetcode.com/articles/add-two-numbers/)|Medium|
+|3|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Python3](https://github.com/evantianx/leetcode/blob/master/solutions/003-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.py) [Golang](https://github.com/evantianx/leetcode/blob/master/solutions/003-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.go)|[:memo:](https://leetcode.com/articles/longest-substring-without-repeating-characters/)|Medium|
 |4|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)||[:memo:](https://leetcode.com/articles/median-of-two-sorted-arrays/)|Hard|
 |5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)||[:memo:](https://leetcode.com/articles/longest-palindromic-substring/)|Medium|
 |6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)||[:memo:](https://leetcode.com/articles/zigzag-conversion/)|Medium|
@@ -33,7 +33,7 @@ Update time:  2020-10-22 18:23:34
 |23|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists)||[:memo:](https://leetcode.com/articles/merge-k-sorted-list/)|Hard|
 |24|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs)||[:memo:](https://leetcode.com/articles/swap-nodes-in-pairs/)|Medium|
 |25|[reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group)||[:memo:](https://leetcode.com/articles/reverse-nodes-in-k-group/)|Hard|
-|26|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)||[:memo:](https://leetcode.com/articles/remove-duplicates-from-sorted-array/)|Easy|
+|26|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Python3](https://github.com/evantianx/leetcode/blob/master/solutions/026-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py)|[:memo:](https://leetcode.com/articles/remove-duplicates-from-sorted-array/)|Easy|
 |27|[remove-element](https://leetcode.com/problems/remove-element)||[:memo:](https://leetcode.com/articles/remove-element/)|Easy|
 |28|[implement-strstr](https://leetcode.com/problems/implement-strstr)||[:memo:](https://leetcode.com/articles/implement-strstr/)|Easy|
 |29|[divide-two-integers](https://leetcode.com/problems/divide-two-integers)||[:memo:](https://leetcode.com/articles/divide-integers/)|Medium|
@@ -1273,7 +1273,7 @@ Update time:  2020-10-22 18:23:34
 |1470|[tweet-counts-per-frequency](https://leetcode.com/problems/tweet-counts-per-frequency)|||Medium|
 |1471|[maximum-students-taking-exam](https://leetcode.com/problems/maximum-students-taking-exam)|||Hard|
 |1472|[increasing-decreasing-string](https://leetcode.com/problems/increasing-decreasing-string)|||Easy|
-|1473|[find-the-longest-substring-containing-vowels-in-even-counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts)|[Javascript](https://github.com/evantianx/leetcode/blob/master/solutions/1473-find-the-longest-substring-containing-vowels-in-even-counts/find-the-longest-substring-containing-vowels-in-even-counts.js)||Medium|
+|1473|[find-the-longest-substring-containing-vowels-in-even-counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts)|[Python3](https://github.com/evantianx/leetcode/blob/master/solutions/1473-find-the-longest-substring-containing-vowels-in-even-counts/find-the-longest-substring-containing-vowels-in-even-counts.py) [Javascript](https://github.com/evantianx/leetcode/blob/master/solutions/1473-find-the-longest-substring-containing-vowels-in-even-counts/find-the-longest-substring-containing-vowels-in-even-counts.js)||Medium|
 |1474|[longest-zigzag-path-in-a-binary-tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree)|||Medium|
 |1475|[maximum-sum-bst-in-binary-tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree)|||Hard|
 |1476|[count-negative-numbers-in-a-sorted-matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)|||Easy|
@@ -1328,7 +1328,7 @@ Update time:  2020-10-22 18:23:34
 |1535|[build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons)|||Hard|
 |1537|[maximum-score-after-splitting-a-string](https://leetcode.com/problems/maximum-score-after-splitting-a-string)|||Easy|
 |1538|[maximum-points-you-can-obtain-from-cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards)|||Medium|
-|1539|[diagonal-traverse-ii](https://leetcode.com/problems/diagonal-traverse-ii)|[Javascript](https://github.com/evantianx/leetcode/blob/master/solutions/1539-diagonal-traverse-ii/diagonal-traverse-ii.js)||Medium|
+|1539|[diagonal-traverse-ii](https://leetcode.com/problems/diagonal-traverse-ii)|[Python3](https://github.com/evantianx/leetcode/blob/master/solutions/1539-diagonal-traverse-ii/diagonal-traverse-ii.py) [Javascript](https://github.com/evantianx/leetcode/blob/master/solutions/1539-diagonal-traverse-ii/diagonal-traverse-ii.js)||Medium|
 |1542|[consecutive-characters](https://leetcode.com/problems/consecutive-characters)||[:memo:](https://leetcode.com/articles/consecutive-characters/)|Easy|
 |1543|[simplified-fractions](https://leetcode.com/problems/simplified-fractions)|||Medium|
 |1544|[count-good-nodes-in-binary-tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree)|||Medium|
