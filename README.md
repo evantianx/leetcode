@@ -1,10 +1,10 @@
 My Leetcode Solutions
 
-I have solved **21   /   1483** problems while there are **234** problems still locked.
+I have solved **22   /   1483** problems while there are **234** problems still locked.
 
 Language: Golang,Python3,Javascript
 
-Update time:  2020-10-23 17:47:12
+Update time:  2020-10-23 19:42:48
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -27,8 +27,8 @@ Update time:  2020-10-23 17:47:12
 |17|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[Javascript](https://github.com/evantianx/leetcode/blob/master/solutions/017-letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.js)|[:memo:](https://leetcode.com/articles/letter-combinations-of-a-phone-number/)|Medium|
 |18|[4sum](https://leetcode.com/problems/4sum)||[:memo:](https://leetcode.com/articles/4sum/)|Medium|
 |19|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list)||[:memo:](https://leetcode.com/articles/remove-nth-node-from-end-of-list/)|Medium|
-|20|[valid-parentheses](https://leetcode.com/problems/valid-parentheses)|[Javascript](https://github.com/evantianx/leetcode/blob/master/solutions/020-valid-parentheses/valid-parentheses.js)|[:memo:](https://leetcode.com/articles/valid-parentheses/)|Easy|
-|21|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists)||[:memo:](https://leetcode.com/articles/merged-two-sorted-lists/)|Easy|
+|20|[valid-parentheses](https://leetcode.com/problems/valid-parentheses)|[Javascript](https://github.com/evantianx/leetcode/blob/master/solutions/020-valid-parentheses/valid-parentheses.js) [Golang](https://github.com/evantianx/leetcode/blob/master/solutions/020-valid-parentheses/valid-parentheses.go)|[:memo:](https://leetcode.com/articles/valid-parentheses/)|Easy|
+|21|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Golang](https://github.com/evantianx/leetcode/blob/master/solutions/021-merge-two-sorted-lists/merge-two-sorted-lists.go)|[:memo:](https://leetcode.com/articles/merged-two-sorted-lists/)|Easy|
 |22|[generate-parentheses](https://leetcode.com/problems/generate-parentheses)|[Javascript](https://github.com/evantianx/leetcode/blob/master/solutions/022-generate-parentheses/generate-parentheses.js)|[:memo:](https://leetcode.com/articles/generate-parentheses/)|Medium|
 |23|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists)||[:memo:](https://leetcode.com/articles/merge-k-sorted-list/)|Hard|
 |24|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs)||[:memo:](https://leetcode.com/articles/swap-nodes-in-pairs/)|Medium|
