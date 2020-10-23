@@ -1,10 +1,10 @@
 My Leetcode Solutions
 
-I have solved **20   /   1483** problems while there are **234** problems still locked.
+I have solved **21   /   1483** problems while there are **234** problems still locked.
 
 Language: Golang,Python3,Javascript
 
-Update time:  2020-10-23 16:33:27
+Update time:  2020-10-23 17:37:46
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -21,7 +21,7 @@ Update time:  2020-10-23 16:33:27
 |11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)||[:memo:](https://leetcode.com/articles/container-with-most-water/)|Medium|
 |12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman)||[:memo:](https://leetcode.com/articles/integer-to-roman/)|Medium|
 |13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer)|[Golang](https://github.com/evantianx/leetcode/blob/master/solutions/013-roman-to-integer/roman-to-integer.go)|[:memo:](https://leetcode.com/articles/roman-to-integer/)|Easy|
-|14|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)||[:memo:](https://leetcode.com/articles/longest-common-prefix/)|Easy|
+|14|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)|[Golang](https://github.com/evantianx/leetcode/blob/master/solutions/014-longest-common-prefix/longest-common-prefix.go)|[:memo:](https://leetcode.com/articles/longest-common-prefix/)|Easy|
 |15|[3sum](https://leetcode.com/problems/3sum)||[:memo:](https://leetcode.com/articles/3sum/)|Medium|
 |16|[3sum-closest](https://leetcode.com/problems/3sum-closest)||[:memo:](https://leetcode.com/articles/3sum-closest/)|Medium|
 |17|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[Javascript](https://github.com/evantianx/leetcode/blob/master/solutions/017-letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.js)|[:memo:](https://leetcode.com/articles/letter-combinations-of-a-phone-number/)|Medium|
