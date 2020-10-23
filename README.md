@@ -4,7 +4,7 @@ I have solved **21   /   1483** problems while there are **234** problems still 
 
 Language: Golang,Python3,Javascript
 
-Update time:  2020-10-23 17:37:46
+Update time:  2020-10-23 17:47:12
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|

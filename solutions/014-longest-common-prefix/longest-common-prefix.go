@@ -38,13 +38,20 @@ func longestCommonPrefix(strs []string) string {
     	return strs[0]
     }
 
+    maxLength := len(strs[0])
+
+	for _, str := range strs {
+		maxLength = min(maxLength, len(str))
+	}
+
+
 	substringMap := make(map[string]int)
 
 	var longestSubstring string
 	var longestLength int
 	// populate the map
 	for _, str := range strs {
-		for j := 1; j <= len(str); j++ {
+		for j := 1; j <= maxLength; j++ {
 			substring := str[:j]
 			substringMap[substring] += 1
 
@@ -56,5 +63,12 @@ func longestCommonPrefix(strs []string) string {
 	}
 
 	return longestSubstring
+}
+
+func min(a, b int) int {
+	if a < b {
+		return a
+	}
+	return b
 }
 
