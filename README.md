@@ -1,10 +1,10 @@
 My Leetcode Solutions
 
-I have solved **17   /   1483** problems while there are **234** problems still locked.
+I have solved **18   /   1483** problems while there are **234** problems still locked.
 
 Language: Golang,Python3,Javascript
 
-Update time:  2020-10-22 18:28:51
+Update time:  2020-10-23 15:38:40
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -14,7 +14,7 @@ Update time:  2020-10-22 18:28:51
 |4|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)||[:memo:](https://leetcode.com/articles/median-of-two-sorted-arrays/)|Hard|
 |5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)||[:memo:](https://leetcode.com/articles/longest-palindromic-substring/)|Medium|
 |6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)||[:memo:](https://leetcode.com/articles/zigzag-conversion/)|Medium|
-|7|[reverse-integer](https://leetcode.com/problems/reverse-integer)||[:memo:](https://leetcode.com/articles/reverse-integer/)|Easy|
+|7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|[Golang](https://github.com/evantianx/leetcode/blob/master/solutions/007-reverse-integer/reverse-integer.go)|[:memo:](https://leetcode.com/articles/reverse-integer/)|Easy|
 |8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)||[:memo:](https://leetcode.com/articles/string-to-integer/)|Medium|
 |9|[palindrome-number](https://leetcode.com/problems/palindrome-number)||[:memo:](https://leetcode.com/articles/palindrome-number/)|Easy|
 |10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)||[:memo:](https://leetcode.com/articles/regular-expression-matching/)|Hard|
@@ -1226,7 +1226,7 @@ Update time:  2020-10-22 18:28:51
 |1404|[print-immutable-linked-list-in-reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse)|:lock:||Medium|
 |1406|[subtract-the-product-and-sum-of-digits-of-an-integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)|||Easy|
 |1407|[group-the-people-given-the-group-size-they-belong-to](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to)|||Medium|
-|1408|[find-the-smallest-divisor-given-a-threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold)|||Medium|
+|1408|[find-the-smallest-divisor-given-a-threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold)||[:memo:](https://leetcode.com/articles/find-the-smallest-divisor-given-a-threshold/)|Medium|
 |1409|[minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix)|||Hard|
 |1411|[convert-binary-number-in-a-linked-list-to-integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer)||[:memo:](https://leetcode.com/articles/convert-binary-number-in-a-linked-list-to-integer/)|Easy|
 |1413|[maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold)|||Medium|
@@ -1421,7 +1421,7 @@ Update time:  2020-10-22 18:28:51
 |1661|[minimum-number-of-vertices-to-reach-all-nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes)|||Medium|
 |1662|[minimum-numbers-of-function-calls-to-make-target-array](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array)|||Medium|
 |1663|[detect-cycles-in-2d-grid](https://leetcode.com/problems/detect-cycles-in-2d-grid)|||Hard|
-|1665|[diameter-of-n-ary-tree](https://leetcode.com/problems/diameter-of-n-ary-tree)|:lock:||Medium|
+|1665|[diameter-of-n-ary-tree](https://leetcode.com/problems/diameter-of-n-ary-tree)|:lock:|[:memo:](https://leetcode.com/articles/diameter-of-n-ary-tree/)|Medium|
 |1666|[make-the-string-great](https://leetcode.com/problems/make-the-string-great)|||Easy|
 |1667|[find-kth-bit-in-nth-binary-string](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string)|||Medium|
 |1668|[find-longest-awesome-substring](https://leetcode.com/problems/find-longest-awesome-substring)|||Hard|
