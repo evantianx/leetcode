@@ -1,10 +1,10 @@
 My Leetcode Solutions
 
-I have solved **27   /   1483** problems while there are **234** problems still locked.
+I have solved **28   /   1483** problems while there are **234** problems still locked.
 
 Language: Golang,Python3,Javascript
 
-Update time:  2020-10-24 17:27:11
+Update time:  2020-10-24 17:37:17
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -65,7 +65,7 @@ Update time:  2020-10-24 17:27:11
 |55|[jump-game](https://leetcode.com/problems/jump-game)||[:memo:](https://leetcode.com/articles/jump-game/)|Medium|
 |56|[merge-intervals](https://leetcode.com/problems/merge-intervals)||[:memo:](https://leetcode.com/articles/merge-intervals/)|Medium|
 |57|[insert-interval](https://leetcode.com/problems/insert-interval)||[:memo:](https://leetcode.com/articles/insert-interval/)|Medium|
-|58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)||[:memo:](https://leetcode.com/articles/length-of-last-word/)|Easy|
+|58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|[Golang](https://github.com/evantianx/leetcode/blob/master/solutions/058-length-of-last-word/length-of-last-word.go)|[:memo:](https://leetcode.com/articles/length-of-last-word/)|Easy|
 |59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)||[:memo:](https://leetcode.com/articles/spiral-matrix-ii/)|Medium|
 |60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)||[:memo:](https://leetcode.com/articles/permutation-sequence/)|Hard|
 |61|[rotate-list](https://leetcode.com/problems/rotate-list)||[:memo:](https://leetcode.com/articles/rotate-list/)|Medium|
