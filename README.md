@@ -1,10 +1,10 @@
 My Leetcode Solutions
 
-I have solved **25   /   1483** problems while there are **234** problems still locked.
+I have solved **26   /   1483** problems while there are **234** problems still locked.
 
 Language: Golang,Python3,Javascript
 
-Update time:  2020-10-24 09:52:51
+Update time:  2020-10-24 11:26:52
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -45,7 +45,7 @@ Update time:  2020-10-24 09:52:51
 |35|[search-insert-position](https://leetcode.com/problems/search-insert-position)|[Golang](https://github.com/evantianx/leetcode/blob/master/solutions/035-search-insert-position/search-insert-position.go)|[:memo:](https://leetcode.com/articles/search-insert-position/)|Easy|
 |36|[valid-sudoku](https://leetcode.com/problems/valid-sudoku)||[:memo:](https://leetcode.com/articles/valid-sudoku/)|Medium|
 |37|[sudoku-solver](https://leetcode.com/problems/sudoku-solver)||[:memo:](https://leetcode.com/articles/sudoku-solver/)|Hard|
-|38|[count-and-say](https://leetcode.com/problems/count-and-say)||[:memo:](https://leetcode.com/articles/count-and-say/)|Easy|
+|38|[count-and-say](https://leetcode.com/problems/count-and-say)|[Golang](https://github.com/evantianx/leetcode/blob/master/solutions/038-count-and-say/count-and-say.go)|[:memo:](https://leetcode.com/articles/count-and-say/)|Easy|
 |39|[combination-sum](https://leetcode.com/problems/combination-sum)|[Javascript](https://github.com/evantianx/leetcode/blob/master/solutions/039-combination-sum/combination-sum.js)|[:memo:](https://leetcode.com/articles/combination-sum/)|Medium|
 |40|[combination-sum-ii](https://leetcode.com/problems/combination-sum-ii)|||Medium|
 |41|[first-missing-positive](https://leetcode.com/problems/first-missing-positive)||[:memo:](https://leetcode.com/articles/first-missing-positive/)|Hard|
