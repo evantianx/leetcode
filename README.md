@@ -1,10 +1,10 @@
 My Leetcode Solutions
 
-I have solved **28   /   1483** problems while there are **234** problems still locked.
+I have solved **30   /   1487** problems while there are **234** problems still locked.
 
 Language: Golang,Python3,Javascript
 
-Update time:  2020-10-24 17:37:17
+Update time:  2020-10-25 21:04:52
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -58,7 +58,7 @@ Update time:  2020-10-24 17:37:17
 |48|[rotate-image](https://leetcode.com/problems/rotate-image)||[:memo:](https://leetcode.com/articles/rotate-image/)|Medium|
 |49|[group-anagrams](https://leetcode.com/problems/group-anagrams)||[:memo:](https://leetcode.com/articles/group-anagrams/)|Medium|
 |50|[powx-n](https://leetcode.com/problems/powx-n)||[:memo:](https://leetcode.com/articles/powx-n/)|Medium|
-|51|[n-queens](https://leetcode.com/problems/n-queens)||[:memo:](https://leetcode.com/articles/n-queens/)|Hard|
+|51|[n-queens](https://leetcode.com/problems/n-queens)|[Golang](https://github.com/evantianx/leetcode/blob/master/solutions/051-n-queens/n-queens.go)|[:memo:](https://leetcode.com/articles/n-queens/)|Hard|
 |52|[n-queens-ii](https://leetcode.com/problems/n-queens-ii)||[:memo:](https://leetcode.com/articles/n-queens-ii/)|Hard|
 |53|[maximum-subarray](https://leetcode.com/problems/maximum-subarray)|[Golang](https://github.com/evantianx/leetcode/blob/master/solutions/053-maximum-subarray/maximum-subarray.go)|[:memo:](https://leetcode.com/articles/maximum-subarray/)|Easy|
 |54|[spiral-matrix](https://leetcode.com/problems/spiral-matrix)||[:memo:](https://leetcode.com/articles/spiral-matrix/)|Medium|
@@ -73,7 +73,7 @@ Update time:  2020-10-24 17:37:17
 |63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii)||[:memo:](https://leetcode.com/articles/unique-paths-ii/)|Medium|
 |64|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)||[:memo:](https://leetcode.com/articles/minimum-path-sum/)|Medium|
 |65|[valid-number](https://leetcode.com/problems/valid-number)|||Hard|
-|66|[plus-one](https://leetcode.com/problems/plus-one)||[:memo:](https://leetcode.com/articles/plus-one/)|Easy|
+|66|[plus-one](https://leetcode.com/problems/plus-one)|[Golang](https://github.com/evantianx/leetcode/blob/master/solutions/066-plus-one/plus-one.go)|[:memo:](https://leetcode.com/articles/plus-one/)|Easy|
 |67|[add-binary](https://leetcode.com/problems/add-binary)||[:memo:](https://leetcode.com/articles/add-binary/)|Easy|
 |68|[text-justification](https://leetcode.com/problems/text-justification)|||Hard|
 |69|[sqrtx](https://leetcode.com/problems/sqrtx)||[:memo:](https://leetcode.com/articles/sqrtx/)|Easy|
@@ -1139,6 +1139,7 @@ Update time:  2020-10-24 17:37:17
 |1254|[deepest-leaves-sum](https://leetcode.com/problems/deepest-leaves-sum)||[:memo:](https://leetcode.com/articles/deepest-leaves-sum/)|Medium|
 |1255|[reverse-subarray-to-maximize-array-value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value)|||Hard|
 |1256|[rank-transform-of-an-array](https://leetcode.com/problems/rank-transform-of-an-array)|||Easy|
+|1257|[rank-transform-of-a-matrix](https://leetcode.com/problems/rank-transform-of-a-matrix)||[:memo:](https://leetcode.com/articles/rank-transform-of-a-matrix/)|Hard|
 |1260|[day-of-the-year](https://leetcode.com/problems/day-of-the-year)|||Easy|
 |1261|[swap-for-longest-repeated-character-substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring)|||Medium|
 |1262|[online-majority-element-in-subarray](https://leetcode.com/problems/online-majority-element-in-subarray)|||Hard|
@@ -1490,4 +1491,7 @@ Update time:  2020-10-24 17:37:17
 |1747|[lexicographically-smallest-string-after-applying-operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations)|||Medium|
 |1748|[best-team-with-no-conflicts](https://leetcode.com/problems/best-team-with-no-conflicts)|||Medium|
 |1750|[check-if-two-expression-trees-are-equivalent](https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent)|:lock:||Medium|
+|1751|[slowest-key](https://leetcode.com/problems/slowest-key)|||Easy|
+|1752|[arithmetic-subarrays](https://leetcode.com/problems/arithmetic-subarrays)|||Medium|
+|1753|[path-with-minimum-effort](https://leetcode.com/problems/path-with-minimum-effort)||[:memo:](https://leetcode.com/articles/path-with-minimum-effort/)|Medium|
 |1768|[design-an-expression-tree-with-evaluate-function](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function)|:lock:||Medium|
